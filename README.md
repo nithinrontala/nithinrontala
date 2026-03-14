@@ -1,87 +1,76 @@
-# Hi 👋 I'm Nithin Rontala
+# Hi, I'm Nithin Rontala 👋
 
-🚀 AI/ML Engineer | Data Science Graduate | Backend Developer
+I am an **AI-focused developer and Data Science postgraduate** driven by one goal: building intelligent systems that solve real-world problems, not just experimental models.
 
-I build **AI-powered applications, machine learning models, and scalable backend systems**. My interests include **Artificial Intelligence, Natural Language Processing, and data-driven systems**.
+My primary interests lie in **Machine Learning, Natural Language Processing, and modern LLM architectures such as Retrieval-Augmented Generation (RAG)**. I focus on designing **production-ready AI systems** with strong attention to scalability, performance, and security.
 
----
+I enjoy working across the entire development stack—from building intelligent models to developing APIs and deploying end-to-end applications.
 
-## 🧠 About Me
+I maintain strong problem-solving consistency, having solved **450+ coding problems on LeetCode** and completed the **TakeUForward Blind 75 sheet**, strengthening my foundation in **Data Structures and Algorithms** and enabling me to write optimized and efficient solutions.
 
-* 🎓 M.S. in Data Science
-* 🤖 AI/ML Intern experience working on real-time machine learning systems
-* 🧠 Patent holder in **AI-based Violence Detection System**
-* 📄 Published research papers in **AI and computational intelligence**
-* ☁️ Experience deploying ML models on **AWS cloud infrastructure**
+I continuously explore new technologies and stay committed to learning emerging tools in **AI engineering, backend systems, and full stack development**.
 
 ---
 
-## ⚡ Tech Stack
+# 🛠️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
-Python • Java • SQL
+Python • Java • JavaScript
 
-**Machine Learning**
+### 🤖 Artificial Intelligence & Machine Learning
 
-TensorFlow • PyTorch • Scikit-learn • OpenCV
+Machine Learning • Natural Language Processing • Large Language Models • Retrieval-Augmented Generation (RAG)
+Scikit-Learn • NLTK • HuggingFace Transformers
 
-**NLP**
+### 📊 Data Processing & Visualization
 
-NLTK • spaCy • HuggingFace Transformers
+Pandas • NumPy • Matplotlib • Seaborn • Streamlit
 
-**Backend**
+### 🌐 Backend & API Development
 
-FastAPI • REST APIs
+Node.js • Express.js • Flask • FastAPI • REST APIs
+HTML5 • CSS3
 
-**Databases**
+### 🗄️ Database Technologies
 
-MySQL • MongoDB • Supabase
+MySQL • MongoDB
 
-**Cloud & Tools**
+### ⚙️ Developer Tools & Environment
 
-AWS • Google Cloud • Git • GitHub • Colab
-
----
-
-## 🚀 Key Projects
-
-### AI Humaniser
-
-AI model that converts AI-generated text into natural human-like language.
-Deployed on AWS EC2 for scalable processing.
-
-### Learning Hub
-
-Full-stack platform built with **React and MongoDB** for program discovery and application submission.
+Git • GitHub • Postman • Anaconda • VS Code • Jupyter • PyCharm • Figma
 
 ---
 
-## 🧠 Patent & Research
+# 🧠 Coding Practice
 
-**Violence Detection System**
-AI system for detecting violence levels from real-time CCTV footage.
-
-**Publications**
-
-* Automated Bot Detection on Twitter Using URL Patterns and Learning Automata
-* Speaking Hands: Gesture Recognition Communication System 
+* Solved **450+ problems on LeetCode**
+* Completed **TakeUForward Blind 75 DSA Sheet**
+* Strong foundation in **Data Structures and Algorithms**
+* Focus on writing **optimized and scalable solutions**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinrontala\&show_icons=true\&theme=tokyonight)
-
----
-
-## 📌 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinrontala\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithinrontala\&show_icons=true)
 
 ---
 
-## 📫 Connect
+# 📈 Most Used Languages
 
-🌐 Portfolio: https://nithin-portfolio-wine.vercel.app
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithinrontala\&layout=compact)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nithinrontala)
+
+---
+
+# 🌍 Connect with Me
+
 📧 Email: [nithinrontala02@gmail.com](mailto:nithinrontala02@gmail.com)
+🌐 Portfolio: https://nithin-portfolio-wine.vercel.app
+💻 GitHub: https://github.com/nithinrontala
