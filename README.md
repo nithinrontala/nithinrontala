@@ -8,8 +8,6 @@ I enjoy working across the entire development stack—from building intelligent 
 
 I maintain strong problem-solving consistency, having solved **450+ coding problems on LeetCode** and completed the **TakeUForward Blind 75 sheet**, strengthening my foundation in **Data Structures and Algorithms** and enabling me to write optimized and efficient solutions.
 
-I continuously explore new technologies and stay committed to learning emerging tools in **AI engineering, backend systems, and full stack development**.
-
 ---
 
 # 🛠️ Tech Stack
@@ -43,10 +41,14 @@ Git • GitHub • Postman • Anaconda • VS Code • Jupyter • PyCharm • 
 ---
 
 # 🧠 Coding Practice
-
-🔗LeetCode Profile: https://leetcode.com/u/nithinr_02/
 * Strong foundation in **Data Structures and Algorithms**
 * Focus on writing **optimized and scalable solutions**
+
+🔗 LeetCode Profile: https://leetcode.com/u/nithinr_02/
+
+### LeetCode Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/nithinr_02?theme=light\&font=baloo\&ext=heatmap)
 
 ---
 
@@ -71,5 +73,5 @@ Git • GitHub • Postman • Anaconda • VS Code • Jupyter • PyCharm • 
 # 🌍 Connect with Me
 
 📧 Email: [nithinrontala02@gmail.com](mailto:nithinrontala02@gmail.com)
-🌐 Portfolio: https://nithin-portfolio-wine.vercel.app
+🌐 Portfolio: https://nithin-portfolio-wine.vercel.app\
 💻 GitHub: https://github.com/nithinrontala
