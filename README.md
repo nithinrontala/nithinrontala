@@ -44,8 +44,7 @@ Git • GitHub • Postman • Anaconda • VS Code • Jupyter • PyCharm • 
 
 # 🧠 Coding Practice
 
-* Solved **450+ problems on LeetCode**
-* Completed **TakeUForward Blind 75 DSA Sheet**
+🔗LeetCode Profile: https://leetcode.com/u/nithinr_02/
 * Strong foundation in **Data Structures and Algorithms**
 * Focus on writing **optimized and scalable solutions**
 
